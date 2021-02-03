@@ -33,4 +33,11 @@
       client.get("key", redis.print);
     2-3: 运行的过程中可以不写.js
     
-  
+    下载并安装指定的版本号:
+    npm i redis@3.0.2
+    官方网站:
+    https://www.npmjs.com/package/redis/v/3.0.2  
+
+    //卸载依赖
+    npm uninstall vue jquery
+    如果最后package.json中没有任何依赖了，那么node_modules也都会消失

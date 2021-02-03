@@ -10,9 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.5.1",
-    "mysql": "^2.18.1",
-    "redis": "^3.0.2",
-    "vue": "^2.6.12"
+    "mysql": "^2.18.1"
   }
 }
